@@ -47,3 +47,4 @@ ForEach ($thing in $things) {
 > and again
 > > and again.
 
+Testing colors a bit `#12e876`. Wow!
