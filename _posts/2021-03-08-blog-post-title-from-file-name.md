@@ -53,5 +53,26 @@ Testing colors a bit `#12e876`. Wow!
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
-
+<!-- Raw HTML with inline CSS for the table -->
+<table>
+  <thead>
+    <tr>
+      <th style="color: red;">Left-aligned</th>
+      <th style="color: red;">Center-aligned</th>
+      <th style="color: red;">Right-aligned</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Apple</td>
+      <td>Banana</td>
+      <td>Cherry</td>
+    </tr>
+    <tr>
+      <td>Cat</td>
+      <td>Dog</td>
+      <td>Fish</td>
+    </tr>
+  </tbody>
+</table>
 
