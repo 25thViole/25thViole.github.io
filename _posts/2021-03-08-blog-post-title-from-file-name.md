@@ -10,6 +10,12 @@ This is a sample blog post. You can talk about all sorts of fun things here.
 
 ### This is a header
 
+| Priority apples | Second priority |
+| --- | --- |
+| ambrosia | gala |
+| pink lady | jazz |
+| honeycrisp | granny smith |
+
 #### Some T-SQL Code
 
 ```tsql
@@ -36,7 +42,7 @@ ForEach ($thing in $things) {
 }
 ```
 | Priority apples | Second priority |
-| ------- | -------- |
+| --- | --- |
 | ambrosia | gala |
 | pink lady | jazz |
 | honeycrisp | granny smith |
