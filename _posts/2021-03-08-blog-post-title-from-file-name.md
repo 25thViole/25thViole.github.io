@@ -41,6 +41,10 @@ ForEach ($thing in $things) {
     Write-Output "It highlights it using the GitHub style"
 }
 ```
-
+| Priority apples | Second priority |
+| --- | --- |
+| Ambrosia | gala |
+| pink lady | jazz |
+| Honeycrisp | granny smith |
 
 Hi. d
