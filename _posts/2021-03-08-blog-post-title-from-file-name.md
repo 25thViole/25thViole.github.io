@@ -43,8 +43,8 @@ ForEach ($thing in $things) {
 ```
 | Priority apples | Second priority |
 | --- | --- |
-| ambrosia | gala |
+| Ambrosia | gala |
 | pink lady | jazz |
-| honeycrisp | granny smith |
+| Honeycrisp | granny smith |
 
-Hi.
+Hi. d
