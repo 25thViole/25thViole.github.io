@@ -55,31 +55,3 @@ Testing colors a bit `#12e876`. Wow!
 
 
 
-```powershell
-PS C:\Users\George> ls
-
-
-    Directory: C:\Users\George
-
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
-d-----          8/4/2020  12:20 PM                .cache
-d-----         4/14/2021   3:03 PM                .config
-d-----         6/24/2022   7:48 AM                .ms-ad
-
-
-
-PS C:\Users\George> cd ./cache
-cd : Cannot find path 'C:\Users\George\cache' because it does not exist.
-At line:1 char:1
-+ cd ./cache
-+ ~~~~~~~~~~
-    + CategoryInfo          : ObjectNotFound: (C:\Users\George\cache:String) [Set-Location], ItemNotFoundException
-    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.SetLocationCommand
-
-PS C:\Users\George> cd ./.cache
-PS C:\Users\George\.cache>
-
-```
-
